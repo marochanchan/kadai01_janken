@@ -5,7 +5,7 @@
 - 出来上がりイメージ通り作りました
 
 ## ③アプリのデプロイURL
-- https://marochanchan.github.io/kadai00_cheese/
+- https://marochanchan.github.io/kadai01_janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
